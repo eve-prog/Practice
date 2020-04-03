@@ -2,6 +2,10 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Account" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Composition" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Encapsulation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/InheritenceChallenge" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/classes" vcs="Git" />
   </component>
 </project>
