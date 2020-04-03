@@ -6,6 +6,7 @@
     <mapping directory="$PROJECT_DIR$/Composition" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Encapsulation" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/InheritenceChallenge" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Problems" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/classes" vcs="Git" />
   </component>
 </project>
